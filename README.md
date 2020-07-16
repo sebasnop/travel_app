@@ -1,16 +1,12 @@
-# viajes_app
+# ¡Viajes App!
 
-Aplicación de viajes hecha en Platzi
+Construcción visual de una aplicación de viajes.
+Permitirá ompartir fotos y reseñas de lugares a donde el usuario haya viajado.
 
-## Getting Started
+## Acerca de...
 
-This project is a starting point for a Flutter application.
+Proyecto personal hecho en Flutter.
+Fue construido en base al curso de Flutter de Platzi.
+Aprendí a desarrollar todo tipo de Widgets personalizados tanto Stateless como Stateful.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No tiene aún una arquitectura definida aún.
